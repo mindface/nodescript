@@ -24,10 +24,4 @@ https://github.com/BrowserSync/browser-sync
 
 imgなどのコンパイル系は対象外
 
-### ファイルの移動
-
-```
-yarn movehtml -- [ファイルネーム]
-```
-引数にファイル名
 
